@@ -22,7 +22,7 @@
         </activity>
         <activity
             android:name=".DisplayInterviewData"
-            android:label="@string/title_activity_display_interview_data" >
+            android:label="Interview Data" >
         </activity>
     </application>
 
